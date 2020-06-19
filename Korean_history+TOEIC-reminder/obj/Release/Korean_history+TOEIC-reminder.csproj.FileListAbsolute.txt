@@ -1,0 +1,11 @@
+C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\bin\Release\Korean_history+TOEIC-reminder.exe.config
+C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\bin\Release\Korean_history+TOEIC-reminder.exe
+C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\bin\Release\Korean_history+TOEIC-reminder.pdb
+C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\bin\Release\HtmlAgilityPack.dll
+C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\bin\Release\HtmlAgilityPack.pdb
+C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\bin\Release\HtmlAgilityPack.xml
+C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\obj\Release\Korean_history_TOEIC_reminder.UserControl1.resources
+C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\obj\Release\Korean_history+TOEIC-reminder.csproj.GenerateResource.cache
+C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\obj\Release\Korean_history+TOEIC-reminder.csproj.CopyComplete
+C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\obj\Release\Korean_history+TOEIC-reminder.exe
+C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\obj\Release\Korean_history+TOEIC-reminder.pdb
