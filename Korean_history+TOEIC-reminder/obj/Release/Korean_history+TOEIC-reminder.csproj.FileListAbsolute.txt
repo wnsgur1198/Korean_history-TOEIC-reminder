@@ -9,3 +9,9 @@ C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\obj\Re
 C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\obj\Release\Korean_history+TOEIC-reminder.csproj.CopyComplete
 C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\obj\Release\Korean_history+TOEIC-reminder.exe
 C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\obj\Release\Korean_history+TOEIC-reminder.pdb
+C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\bin\Release\한국사토익시험일정\Korean_history+TOEIC-reminder.exe.config
+C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\bin\Release\한국사토익시험일정\Korean_history+TOEIC-reminder.exe
+C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\bin\Release\한국사토익시험일정\Korean_history+TOEIC-reminder.pdb
+C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\bin\Release\한국사토익시험일정\HtmlAgilityPack.dll
+C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\bin\Release\한국사토익시험일정\HtmlAgilityPack.pdb
+C:\kjh-csharp\Korean_history+TOEIC-reminder\Korean_history+TOEIC-reminder\bin\Release\한국사토익시험일정\HtmlAgilityPack.xml

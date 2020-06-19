@@ -34,8 +34,8 @@ namespace Korean_history_TOEIC_reminder
         
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             this.toeicLabel = new System.Windows.Forms.Label();
             this.toeicLink = new System.Windows.Forms.LinkLabel();
             this.khistoryLabel = new System.Windows.Forms.Label();
@@ -88,7 +88,7 @@ namespace Korean_history_TOEIC_reminder
             // khistoryLink
             // 
             this.khistoryLink.AutoSize = true;
-            this.khistoryLink.Location = new System.Drawing.Point(18, 341);
+            this.khistoryLink.Location = new System.Drawing.Point(16, 346);
             this.khistoryLink.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.khistoryLink.Name = "khistoryLink";
             this.khistoryLink.Size = new System.Drawing.Size(84, 15);
@@ -101,22 +101,22 @@ namespace Korean_history_TOEIC_reminder
             // 
             this.toeicResult.AllowUserToAddRows = false;
             this.toeicResult.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            this.toeicResult.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            this.toeicResult.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
             this.toeicResult.ColumnHeadersHeight = 29;
             this.toeicResult.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Column1,
             this.Column2,
             this.Column3,
             this.Column4});
-            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle4.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.toeicResult.DefaultCellStyle = dataGridViewCellStyle4;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.toeicResult.DefaultCellStyle = dataGridViewCellStyle2;
             this.toeicResult.Location = new System.Drawing.Point(12, 64);
             this.toeicResult.Name = "toeicResult";
             this.toeicResult.ReadOnly = true;
@@ -161,14 +161,14 @@ namespace Korean_history_TOEIC_reminder
             // 
             this.khistoryResult.AllowUserToAddRows = false;
             this.khistoryResult.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
-            this.khistoryResult.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle3;
+            this.khistoryResult.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
             this.khistoryResult.ColumnHeadersHeight = 29;
             this.khistoryResult.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Column5,
             this.Column6,
             this.Column7,
             this.Column8});
-            this.khistoryResult.DefaultCellStyle = dataGridViewCellStyle4;
+            this.khistoryResult.DefaultCellStyle = dataGridViewCellStyle2;
             this.khistoryResult.Location = new System.Drawing.Point(12, 368);
             this.khistoryResult.Name = "khistoryResult";
             this.khistoryResult.ReadOnly = true;
@@ -214,6 +214,8 @@ namespace Korean_history_TOEIC_reminder
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(820, 611);
             this.Controls.Add(this.khistoryResult);
             this.Controls.Add(this.toeicLabel);
@@ -221,6 +223,7 @@ namespace Korean_history_TOEIC_reminder
             this.Controls.Add(this.toeicResult);
             this.Controls.Add(this.khistoryLabel);
             this.Controls.Add(this.khistoryLink);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "UserControl1";
             this.Text = "한국사 토익 알리미";
