@@ -165,6 +165,7 @@ namespace Korean_history_TOEIC_reminder
                         string filtered1 = Regex.Replace(td.InnerText, "[A-Za-z;]", "");
                         string filtered2 = Regex.Replace(filtered1, "[&]", " ");
                         filtered2 = filtered2.Replace("\t", "");
+                        filtered2 = filtered2.Replace("★ ", "");
 
                         //Console.WriteLine("Row: " + filtered2 + ", Rows: " + toeicResult.Rows.Count);
 
