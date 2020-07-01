@@ -1,7 +1,7 @@
 # Korean_history-TOEIC-reminder
 C#을 이용한 한국사 토익 시험일정 프로그램
 
-![](readme-img/header.png)
+![](header.png)
 
 ## Installation
 
