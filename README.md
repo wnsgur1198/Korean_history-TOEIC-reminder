@@ -1,18 +1,18 @@
 # Korean_history-TOEIC-reminder
-C#을 이용한 한국사 토익 시험일정 프로그램
+웹 크롤링을 이용한 한국사 토익 시험일정 프로그램
 
 ![](readme-img/header.jpg)
 
 ## Installation
 
-Windows:
+Windows10:
 
-Visual Studio로 실행하면 된다.
+Visual Studio2019로 실행함
 
 ## Usage example
 
-웹 크롤링을 하여 토익,한국사 홈페이지에서 시험일정을 가져와 테이블로 출력한다.
-단, 알림 기능은 없다.
+웹 크롤링을 하여 토익,한국사 홈페이지에서 시험일정을 가져와 테이블로 출력함.
+단, 알림 기능은 없음.
 
 ## Development setup
 
