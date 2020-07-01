@@ -20,9 +20,17 @@ Visual Studio2019로 실행함
 
 ## Release History
 
-* 1.0.1
-    * second
-    * 개발 완료
+* 1.2.0
+    * doc: Edit README.md to include a program image size 300pixel
+    * README.md 내용 수정
+
+* 1.2.0
+    * forth
+    * 셀 내용 변경 불가로 수정
+
+* 1.1.0
+    * third
+    * 창 버튼 및 크기 조절 수정
 
 * 1.0.0
     * first commit
