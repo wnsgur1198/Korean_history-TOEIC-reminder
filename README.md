@@ -20,7 +20,12 @@ Visual Studio2019로 실행함
 
 ## Release History
 
+* 1.0.1
+    * second
+    * 개발 완료
+
 * 1.0.0
+    * first commit
     * 개발 완료
 
 ## Meta
