@@ -3,20 +3,21 @@
 
 ![](readme-img/header.jpg)
 
-## Installation
 
-Windows10:
+## 개발기간
+* 2020.06.19.
 
-Visual Studio2019로 실행함
 
-## Usage example
+## 주요기능
+* 한국사와 토익의 시험 일정 정보를 웹에서 크롤링하여 출력
+* 해당 웹에 최신으로 갱신되고, 그 정보를 자동으로 가져오므로 최신 시험 일정 유지 가능
+    * 단, 알림 기능은 없음.
 
-웹 크롤링을 하여 토익,한국사 홈페이지에서 시험일정을 가져와 테이블로 출력함.
-단, 알림 기능은 없음.
 
 ## Development setup
+* 프레임워크: .Net 4.7.2
+* 라이브러리: C#의 HtmlAgilityPack
 
-.Net Framework 4.7.2 사용함
 
 ## Release History
 
@@ -36,16 +37,7 @@ Visual Studio2019로 실행함
     * first commit
     * 개발 완료
 
-## Meta
 
-김준혁 – wnsgur1198@naver.com
+## Contact
 
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
+김준혁 – kimjunhyeok.it@gmail.com
